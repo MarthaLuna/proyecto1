@@ -1,0 +1,30 @@
+h1 
+{
+    text-decoration: underline;
+}
+
+h5
+{
+    text-align: right;
+    
+}
+
+a
+{
+    float:right;
+}
+
+td.clasification
+{
+    font-weight: bold;
+}
+
+#job
+{
+    background-color: cadetblue;
+}
+
+#description
+{
+    font-style: italic;
+}
